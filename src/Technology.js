@@ -12,7 +12,7 @@ const Technology = ({ data }) => {
 
     return(
         <div className="technology-main main-margin">
-            <img src='/assets/technology/background-technology-desktop.jpg 1280w' srcSet={`/assets/technology/background-technology-mobile.jpg 375w, /assets/technology/background-technology-tablet.jpg 768w, /assets/technology/background-technology-desktop.jpg 1280w`} className="background" alt='' />
+            <img src='./assets/technology/background-technology-desktop.jpg 1280w' srcSet={`./assets/technology/background-technology-mobile.jpg 375w, ./assets/technology/background-technology-tablet.jpg 768w, ./assets/technology/background-technology-desktop.jpg 1280w`} className="background" alt='' />
             <div className="tech-upper-heading">
             <h2 className="text-center-mobile pad-in-1 f-s-head-m f-f-bar-cond f-w-400 clr-white let-sp-5"><span className="f-w-700 opac">03 </span>&nbsp;SPACE LAUNCH 101</h2>
             </div>

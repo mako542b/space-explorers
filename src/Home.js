@@ -4,7 +4,7 @@ const Home = () => {
     return(
         <div className="home home-margin">
             <div className="background">
-        <img src='/assets/home/background-home-desktop.jpg 1280w' srcSet={`/assets/home/background-home-mobile.jpg 300w, /assets/home/background-home-tablet.jpg 768w, /assets/home/background-home-desktop.jpg 1280w`} className='background-img' alt='' />
+        <img src='./assets/home/background-home-desktop.jpg 1280w' srcSet={`./assets/home/background-home-mobile.jpg 300w, ./assets/home/background-home-tablet.jpg 768w, ./assets/home/background-home-desktop.jpg 1280w`} className='background-img' alt='' />
         </div>
             <div className="home-text">
             <p className="f-s-head-m f-f-bar-cond clr-light-blue up-case let-sp-5">so, you want to travel to</p>

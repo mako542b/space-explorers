@@ -11,7 +11,7 @@ const setCrewClick = (e) => {
     return(
          <div className="main-margin">
             <div className="background">
-                <img src='/assets/crew/background-crew-desktop.jpg 1280w' srcSet={`/assets/crew/background-crew-mobile.jpg 375w, /assets/crew/background-crew-tablet.jpg 768w, /assets/crew/background-crew-desktop.jpg 1280w`} className="background-img" alt='' />
+                <img src='./assets/crew/background-crew-desktop.jpg 1280w' srcSet={`./assets/crew/background-crew-mobile.jpg 375w, ./assets/crew/background-crew-tablet.jpg 768w, ./assets/crew/background-crew-desktop.jpg 1280w`} className="background-img" alt='' />
             </div>
             <h2 className="margin-header text-center-mobile f-s-head-m f-f-bar-cond f-w-400 clr-white let-sp-5 fit-content"><span className="f-w-700 opac">02 </span>&nbsp;MEET YOUR CREW</h2>
 

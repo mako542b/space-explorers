@@ -8,7 +8,7 @@ const Destination = ( {data} ) => {
     
     return(
         <div className="destination main-margin">
-        <img src='/assets/destination/background-destination-desktop.jpg 1280w' srcSet={`/assets/destination/background-destination-mobile.jpg 375w, /assets/destination/background-destination-tablet.jpg 768w, /assets/destination/background-destination-desktop.jpg 1280w`} className="background" alt='' />
+        <img src='./assets/destination/background-destination-desktop.jpg 1280w' srcSet={`./assets/destination/background-destination-mobile.jpg 375w, ./assets/destination/background-destination-tablet.jpg 768w, ./assets/destination/background-destination-desktop.jpg 1280w`} className="background" alt='' />
             <div className="image-destination">
             <h2 className="text-center-mobile f-s-head-m f-f-bar-cond f-w-400 clr-white pick-dest let-sp-5"><span className="f-w-700 opac">01 </span>&nbsp;PICK YOUR DESTINATION</h2>
             <div className="img-div">           
