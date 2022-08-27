@@ -1,0 +1,1 @@
+Hi. I'd like to introduce my first multi-page website with react router. It's also first project with an access to figma file, which helped to get closer to original design.
